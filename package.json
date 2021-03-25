@@ -1,0 +1,22 @@
+{
+    "name": "blackula-theme",
+    "displayName": "blackula-theme",
+    "description": "black color theme",
+    "version": "0.0.3",
+    "publisher": "crsayen",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "blackula-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blackula-theme-color-theme.json"
+            }
+        ]
+    }
+}
