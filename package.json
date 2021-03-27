@@ -2,8 +2,9 @@
     "name": "blackula-theme",
     "displayName": "blackula-theme",
     "description": "black color theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "crsayen",
+    "repository": "https://github.com/crsayen/blackula-theme.git",
     "engines": {
         "vscode": "^1.46.0"
     },
